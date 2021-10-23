@@ -1,4 +1,5 @@
 ﻿using System;
+using UserInput;
 
 namespace RandomGame
 {
@@ -6,19 +7,24 @@ namespace RandomGame
 	{
 		static void Main(string[] args)
 		{
-			int randomNumber = 62;
+			Random rnd = new Random();
+			int randomNumber = rnd.Next(101); // random integers from 0 to 100
 			int guess;
-			int numGuesses = 0;
+			int numGuesses = 0; // counter
 
 			do
 			{
 				Console.WriteLine("Enter your guess");
-				guess = Convert.ToInt32(Console.ReadLine());
+				guess = UserInt.Get(); // retrieve user guess
 				numGuesses++;
 
 				if (guess == randomNumber)
 				{
 					Console.WriteLine("You Win!");
+				}
+				else if (guess > 100 || guess < 0)
+				{
+					Console.WriteLine("You must enter an integer in [0,100]");
 				}
 				else if (guess > randomNumber)
 				{
