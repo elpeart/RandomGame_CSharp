@@ -1,0 +1,13 @@
+C:\Users\elpea\source\repos\RandomGame\bin\Debug\netcoreapp3.1\RandomGame.exe
+C:\Users\elpea\source\repos\RandomGame\bin\Debug\netcoreapp3.1\RandomGame.deps.json
+C:\Users\elpea\source\repos\RandomGame\bin\Debug\netcoreapp3.1\RandomGame.runtimeconfig.json
+C:\Users\elpea\source\repos\RandomGame\bin\Debug\netcoreapp3.1\RandomGame.runtimeconfig.dev.json
+C:\Users\elpea\source\repos\RandomGame\bin\Debug\netcoreapp3.1\RandomGame.dll
+C:\Users\elpea\source\repos\RandomGame\bin\Debug\netcoreapp3.1\RandomGame.pdb
+C:\Users\elpea\source\repos\RandomGame\obj\Debug\netcoreapp3.1\RandomGame.csprojAssemblyReference.cache
+C:\Users\elpea\source\repos\RandomGame\obj\Debug\netcoreapp3.1\RandomGame.csproj.CoreCompileInputs.cache
+C:\Users\elpea\source\repos\RandomGame\obj\Debug\netcoreapp3.1\RandomGame.AssemblyInfoInputs.cache
+C:\Users\elpea\source\repos\RandomGame\obj\Debug\netcoreapp3.1\RandomGame.AssemblyInfo.cs
+C:\Users\elpea\source\repos\RandomGame\obj\Debug\netcoreapp3.1\RandomGame.dll
+C:\Users\elpea\source\repos\RandomGame\obj\Debug\netcoreapp3.1\RandomGame.pdb
+C:\Users\elpea\source\repos\RandomGame\obj\Debug\netcoreapp3.1\RandomGame.genruntimeconfig.cache
